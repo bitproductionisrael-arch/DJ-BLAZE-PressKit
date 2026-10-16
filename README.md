@@ -6,6 +6,7 @@ Independent, mobile-friendly electronic press kit for DJ BLAZE (Amit Mike Rov), 
 
 - `index.html`: standalone HTML landing page, biography, credits, media links and bookings.
 - `assets/dj-blaze-live.jpg`: original live-performance photograph extracted from the press kit that was used for venue outreach.
+- `assets/dj-blaze-logo.svg`: lightweight vector recreation of the BLAZE wordmark from the supplied press-kit graphic.
 - `DJ_BLAZE_Press_Kit.pdf`: PDF press kit and artist CV previously sent to venue contacts.
 
 ## Publish the independent website
